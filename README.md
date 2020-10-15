@@ -1,4 +1,4 @@
-# nuxt-tailwind-responsive-navbar
+# Nuxt Tailwind Responsive Navbar
 
 ## Build Setup
 
