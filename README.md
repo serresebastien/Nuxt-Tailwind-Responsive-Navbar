@@ -9,8 +9,9 @@
 > Beautiful responsive navbar for all your project using [Nuxt.js](https://nuxtjs.org/) and [Tailwind.css](https://tailwindcss.com/)
 
 <p align="center"><img src="https://user-images.githubusercontent.com/17741510/97121322-b8fcd580-171d-11eb-9e7b-1c4e22d976d1.gif"/></p>
+<p align="center"><a href="https://nuxt-tailwind-navbar.netlify.app/">demo</a></p>
 
-## How to run and build the site
+## How to run and build the project
 
 ```bash
 # install dependencies
@@ -31,5 +32,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ## Credit
 
+To create this project, I was helped by the work of
 - [fayazara](https://github.com/fayazara/tailwind-components)
 - [mr_alaraj](https://tailwindcomponents.com/component/traveler-hero-concept-design)
